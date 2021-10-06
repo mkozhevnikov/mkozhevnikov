@@ -14,6 +14,12 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkozhevnikov&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [twitter]: https://twitter.com/mak_egik
 [instagram]: https://instagram.com/mkozh
 [linkedin]: https://www.linkedin.com/in/makozhevnikov
