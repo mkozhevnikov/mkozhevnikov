@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mak_egik?label=follow%20me&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmak_egik&screen_name=mak_egik)
 
-## I'm a Husband, Father, Developer, Manager and Traveler!!
+## I'm an Engineer, Husband, Father, and Traveler!!
 
 - 👨‍💻 Working at ServiceTitan
 - 🌱 Currently learning everything that can help me be more productive
